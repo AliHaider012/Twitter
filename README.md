@@ -6,9 +6,6 @@ This is my first fullstack web application. I've used MongoDB as a database , Re
 <br />
 <br />
 
-
-![](https://user-images.githubusercontent.com/71825314/145272820-d6af46e2-8bb2-4e7e-997e-3c381d87288a.gif)
-
 ## Features
 
 - Auth (Sign in/Sign up)
