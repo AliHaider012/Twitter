@@ -2,7 +2,7 @@
 
 ## Overview 📹
 
-This is my first fullstack web application. I've used MongoDB as a database , ReactJS for the frontend , ExpressJS for the backend and Redux for the global states. Follow the guide below to install the application to your desktop and run it locally. If you want to contribute to this project , please fork the repository [here](https://github.com/mithatercann/twitter-clone/fork). If you are new please check [GitHub for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). 
+I've used MongoDB as a database , ReactJS for the frontend , ExpressJS for the backend and Redux for the global states. Follow the guide below to install the application to your desktop and run it locally. If you want to contribute to this project , please fork the repository [here](https://github.com/mithatercann/twitter-clone/fork). If you are new please check [GitHub for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). 
 <br />
 <br />
 
